@@ -1,6 +1,6 @@
 [< к содержанию](./readme.md)
 
-## ***GIT***![git-logo](./assets/git-logo.png)
+## ***GIT***
 ---
 
 
