@@ -1,6 +1,6 @@
 [< к содержанию](./readme.md)
 
-## git config
+## **git config**
 ---
 
 После установки *GIT*, необходимо добавить немного настроек. Самые важные: указать наше имя и адрес электронной почты.
@@ -12,3 +12,4 @@
 git config --global user.name "Your Name"
 git config --global user.email "your_email@whatever.com"
 ```
+---
