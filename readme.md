@@ -7,23 +7,30 @@ LICENSE: [MIT](./license.md)
 ---
 
 ### ***Содержание:***
+* #### [Основы]()
+* #### [Установка](./install.md)
+* #### [Настройка](./config.md) 
+* #### [Создание нового репозитория](./init.md)
+* #### Получение данных о состояния репозитория:
+  * [git status](./status.md)
+  * [git log](./log.md)
+  * [git show](./show.md)
+* #### [Подготовка файлов](./add.md)
+* #### [Коммит (фиксация изменений)](./commit.md)
 
 #### *Основные операции*
-1. [git config](./config.md)
-2. [git add](./add.md)
+
+2. 
 3. [git clone](./clone.md)
-4. [git commit](./commit.md)
-5. [git init](./init.md)
+4. [git commit]()
+5. 
 #### *Работа с удаленным репозиторием*
 1. [git remote](./remote.md)
 2. [git fetch](./fetch.md)
 3. [git merge](./merge.md)
 4. [git pull](./pull.md)
 5. [git push](./push.md)
-#### *Получение данных о состоянии репозитория*
-1. [git status](./status.md)
-2. [git log](./log.md)
-3. [git show](./show.md)
+
 #### *Файл [.gitignore](./ignore.md)*
 
 
