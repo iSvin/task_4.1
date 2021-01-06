@@ -1,10 +1,14 @@
 [< к содержанию](./readme.md)
 
 
-**git remote add *[имя_удаленного_репозитория] [адрес]*** используется для добавления связанных удаленных репозиториев.
+**git remote add** 
+
+---
+Добавление удаленных репозиториев:
+git remote add[имя_удаленниого_репозитория][url]
 
 **Например:**
 
 ```bash=
-git remote add origin https://github.com/avsudnichnikov/example
+git remote add origin https://github.com/iSvin/task_4.1
 ```

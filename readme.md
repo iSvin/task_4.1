@@ -17,21 +17,15 @@ LICENSE: [MIT](./license.md)
   * [git show](./show.md)
 * #### [Подготовка файлов](./add.md)
 * #### [Коммит (фиксация изменений)](./commit.md)
+* #### [Создание копии репозитория](./clone.md)
+* #### Удалённые репозитории
+  * [git remote](./remote.md)
+  * [git fetch](./fetch.md)
+  * [git merge](./merge.md)
+  * [git push](./push.md)
+  * [git pull](./pull.md)
 
-#### *Основные операции*
-
-2. 
-3. [git clone](./clone.md)
-4. [git commit]()
-5. 
-#### *Работа с удаленным репозиторием*
-1. [git remote](./remote.md)
-2. [git fetch](./fetch.md)
-3. [git merge](./merge.md)
-4. [git pull](./pull.md)
-5. [git push](./push.md)
-
-#### *Файл [.gitignore](./ignore.md)*
+* #### *Файл [.gitignore](./ignore.md)*
 
 
 
